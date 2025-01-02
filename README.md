@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Chandan-M-22
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
+- gravity swallows light.
 
 <!---
 Chandan-M-22/Chandan-M-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
