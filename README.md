@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chandan-M-22
 - 🌱 I’m currently learning ...
-- 📫 How to reach me ...
 - gravity swallows light.
 
 <!---
